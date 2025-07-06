@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BigBurgers/static/css/main.68568471.css",
-    "main.js": "/BigBurgers/static/js/main.5180683b.js",
+    "main.js": "/BigBurgers/static/js/main.919e54c1.js",
     "static/media/Banner.png": "/BigBurgers/static/media/Banner.aae8f74114b41feb0075.png",
     "static/media/logo.png": "/BigBurgers/static/media/logo.68837127a92875770d10.png",
     "index.html": "/BigBurgers/index.html",
     "main.68568471.css.map": "/BigBurgers/static/css/main.68568471.css.map",
-    "main.5180683b.js.map": "/BigBurgers/static/js/main.5180683b.js.map"
+    "main.919e54c1.js.map": "/BigBurgers/static/js/main.919e54c1.js.map"
   },
   "entrypoints": [
     "static/css/main.68568471.css",
-    "static/js/main.5180683b.js"
+    "static/js/main.919e54c1.js"
   ]
 }
