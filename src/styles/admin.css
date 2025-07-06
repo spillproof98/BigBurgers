@@ -1,0 +1,19 @@
+.admin-orders, .admin-users, .employee-view {
+  padding: 20px;
+}
+
+.order-box {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  background: #fffef9;
+}
+
+.upload-form input, .upload-form select, .upload-form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  border-radius: 8px;
+}
